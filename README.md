@@ -1,5 +1,6 @@
 # Q5
-Να υλοποιηθεί το Query 5 χρησιμοποιώντας τo DataFrame API. Πειραματιστείτε κάνοντας την εισαγωγή των δεδομένων με χρήση αρχείων csv και parquet και σχολιάστε πώς επηρεάζεται η εκτέλεση
+# Να υλοποιηθεί το Query 5 χρησιμοποιώντας τo DataFrame API. Πειραματιστείτε κάνοντας την εισαγωγή των δεδομένων με χρήση αρχείων csv και parquet και σχολιάστε πώς επηρεάζεται η εκτέλεση
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 
